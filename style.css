@@ -1,0 +1,57 @@
+body {
+    font-family: Arial;
+    background: #f5f1e6;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: #5a3e2b;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+th {
+    background: #8b5e3c;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 80%;
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    background: #5a3e2b;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
